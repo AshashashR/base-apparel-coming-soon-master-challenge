@@ -219,14 +219,14 @@ form.error input {
     }
 
     .input-error {
-        display: none;
+        display: block;
         margin-top: 5px;
         font-size: 12px;
         color: var(--soft-red);
     }
 
     .error {
-        display: none;
+        display: block;
         position: absolute;
         top: 10px;
         right: 70px;
