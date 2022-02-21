@@ -123,7 +123,7 @@ input::placeholder {
 }
 
 .input-error {
-    display: block;
+    display: none;
     margin-top: 5px;
     margin-left: 2em;
     font-size: 12px;
@@ -131,7 +131,7 @@ input::placeholder {
 }
 
 .error {
-    display: block;
+    display: none;
     position: absolute;
     top: 13px;
     right: 110px;
