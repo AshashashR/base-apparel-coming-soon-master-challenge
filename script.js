@@ -10,6 +10,7 @@ form.addEventListener('submit', e => {
     form.classList.remove('success');
   } else {
     form.classList.remove('error');
+    document.getElementById("form").reset();
     form.classList.add('success');
   }
 });

@@ -122,12 +122,22 @@ input::placeholder {
     color: var(--desaturated-red);
 }
 
-small{
+small {
     display: none;
     margin-top: 15px;
     margin-left: 2em;
     font-size: 12px;
     color: var(--soft-red);
+}
+
+#success {
+    display: none;
+    color: var(--dark-grayish-red);
+    text-transform: uppercase;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .error-icon {
@@ -145,6 +155,9 @@ form.success input {
     border: 2px solid var(--desaturated-red);
 }
 
+form.success #success {
+    display: block;
+}
 
 form.error .error-icon {
     display: block;
