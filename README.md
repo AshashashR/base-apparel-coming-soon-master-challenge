@@ -29,7 +29,7 @@ Users should be able to:
 ### Screenshots
 
 <img src="base-apparel-desktop.jpg" width=70% height=70%>
-<img src="base-apparel-mobile.jpg)" width=70% height=50%>
+<img src="base-apparel-mobile.jpg" width=30% height=50%>
 
 ### Links
 
