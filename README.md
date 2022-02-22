@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](base-apparel-desktop.jpg)
+![](base-apparel-desktop.jpg) ![](base-apparel-mobile.jpg)
 
-![](base-apparel-mobile.jpg)
 
 ### Links
 
