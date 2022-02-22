@@ -56,4 +56,4 @@ I need to practice more my JavaScript and also learn more about responsive site 
 ## Author
 
 - Website - [GitHub](https://github.com/AshashashR)
-- Frontend Mentor - [@AshleyRakotoson](https://www.frontendmentor.io/profile/AshleyRakotoson)
+- Frontend Mentor - [@AshleyRakotoson](https://www.frontendmentor.io/profile/AshashashR)
