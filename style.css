@@ -231,7 +231,8 @@ form.error small {
     }
 
     small {
-        margin-top: 5px;
+        position :absolute;
+        margin-top: 10px;
         font-size: 12px;
         color: var(--soft-red);
     }

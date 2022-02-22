@@ -30,8 +30,8 @@ function validateEmail(email) {
 //         form.classList.add('error');
 //     } else {
 //         form.classList.remove('error');
-//         document.body.innerHTML =`<div style="display:flex; align-items:center; justify-content:center;">
-//         <h1>Sent succesfully!</h1></div>`
+        // document.body.innerHTML =`<div style="display:flex; align-items:center; justify-content:center;">
+        // <h1>Sent succesfully!</h1></div>`
 //     }    
 // });
 
