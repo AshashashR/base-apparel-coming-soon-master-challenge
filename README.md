@@ -28,6 +28,8 @@ Users should be able to:
 
 ### Screenshots
 
+<img src="base-apparel-desktop.jpg" width=50% height=50%>
+
 ![](base-apparel-desktop.jpg) ![](base-apparel-mobile.jpg)
 
 
