@@ -122,15 +122,15 @@ input::placeholder {
     color: var(--desaturated-red);
 }
 
-.input-error {
+small{
     display: none;
-    margin-top: 5px;
+    margin-top: 15px;
     margin-left: 2em;
     font-size: 12px;
     color: var(--soft-red);
 }
 
-.error {
+.error-icon {
     display: none;
     position: absolute;
     top: 13px;
@@ -141,6 +141,18 @@ form.error input {
     border: 2px solid var(--soft-red);
 }
 
+form.success input {
+    border: 2px solid var(--desaturated-red);
+}
+
+
+form.error .error-icon {
+    display: block;
+}
+
+form.error small {
+    display: block;
+}
 
 @media only screen and (max-width: 768px) {
     body {
@@ -218,15 +230,13 @@ form.error input {
         cursor: pointer;
     }
 
-    .input-error {
-        display: block;
+    small {
         margin-top: 5px;
         font-size: 12px;
         color: var(--soft-red);
     }
 
-    .error {
-        display: block;
+    .error-icon {
         position: absolute;
         top: 10px;
         right: 70px;
