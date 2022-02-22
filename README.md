@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ashashashr.github.io/base-apparel-coming-soon-master-challenge/)
+- Solution URL: [](https://your-solution-url.com)
+- Live Site URL: [](https://ashashashr.github.io/base-apparel-coming-soon-master-challenge/)
 
 ## My process
 
