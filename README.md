@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [https://ashashashr.github.io/base-apparel-coming-soon-master-challenge/](https://ashashashr.github.io/base-apparel-coming-soon-master-challenge/)
+- Live Site URL: [Here](https://ashashashr.github.io/base-apparel-coming-soon-master-challenge/)
 
 ## My process
 
