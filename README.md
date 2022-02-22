@@ -24,13 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-<img width="1104" alt="Capture d’écran 2021-11-11 à 15 14 00" src="![base-apparel-desktop](https://user-images.githubusercontent.com/78886716/155051424-98e67fab-d4b8-46f3-88bd-f63ac70f82d0.jpg)
-">
-![](./screenshot.jpg)
-<img width="1104" alt="Capture d’écran 2021-11-11 à 15 14 00" src="![base-apparel-desktop](![base-apparel-mobile](https://user-images.githubusercontent.com/78886716/155051460-3a173400-9894-4322-a436-3a9ac17b79c3.jpg)
-)
-">
+![](base-apparel-desktop.jpg)
+
+![](base-apparel-mobile.jpg)
 
 ### Links
 
